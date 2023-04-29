@@ -1,2 +1,2 @@
 # Raspberry-PI
-NUT server
+NUT server for Rasperry Pi
