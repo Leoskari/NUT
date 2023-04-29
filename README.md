@@ -1,6 +1,6 @@
 # Preparing Raspbian
 
-###### The RPi will try to get an IP adress from your DHCP server by default, so either check your DHCP leases to get the IP or simply connect to the host by the hostname “raspberrypi” the default username/password is pi/raspberry.
+##### The RPi will try to get an IP adress from your DHCP server by default, so either check your DHCP leases to get the IP or simply connect to the host by the hostname “raspberrypi” the default username/password is pi/raspberry.
 
 ssh pi@raspberrypi
 
