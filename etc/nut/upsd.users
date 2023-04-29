@@ -1,0 +1,13 @@
+[admin]
+        password = hunter2
+        actions = SET
+        instcmds = ALL
+[upsmon_local]
+        password  = hunter2
+        upsmon master
+[upsmon_remote]
+        password  = hunter2
+        upsmon slave
+[monuser]        #This is what Synology DSM expects
+        password  = secret   #Leave this here.
+        upsmon slave
